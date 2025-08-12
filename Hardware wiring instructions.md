@@ -44,7 +44,6 @@ This document describes how to connect the hardware components for the project.
 - Use heat shrink tubing or electrical tape on all exposed connections.
 - Check servo power polarity before powering on.
 
----
 
-**Reference Diagrams:**  
-See `/docs/circuit_diagram.png` for a visual layout.
+
+
